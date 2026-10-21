@@ -14,3 +14,4 @@
 <img width="1920" height="917" alt="螢幕擷取畫面 2026-10-14 150424" src="https://github.com/user-attachments/assets/f60e57f5-eec9-4f2f-9c73-19fc2847881e" />
 第四次的作業
 <img width="1918" height="975" alt="螢幕擷取畫面 2026-10-21 150716" src="https://github.com/user-attachments/assets/2aafda7a-1f12-4e57-ba0d-784fa916b111" />
+<img width="1470" height="779" alt="螢幕截圖 2026-10-22 凌晨1 48 02" src="https://github.com/user-attachments/assets/4666d7b7-88be-417e-9c40-3ad99ab7bcae" />
