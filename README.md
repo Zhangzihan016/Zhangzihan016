@@ -18,3 +18,5 @@
 第五次的作業
 <img width="1920" height="1022" alt="螢幕擷取畫面 2026-10-28 142428" src="https://github.com/user-attachments/assets/c734508d-c3ee-4071-b2bd-d3d29c9dcb8e" />
 <img width="1920" height="1020" alt="螢幕擷取畫面 2026-10-28 151750" src="https://github.com/user-attachments/assets/3ae48938-6162-472f-a84e-613103ef1dac" />
+第六次作業
+<img width="1919" height="903" alt="螢幕擷取畫面 2026-11-11 151353" src="https://github.com/user-attachments/assets/62fdbc33-1656-4c62-9990-ebe5e3c43b14" />
